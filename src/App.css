@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.header{
+
+  font-weight: bolder;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  border: 2px ridge white;
+  background-color: darkslategrey ;
+  text-align: center;
+  color: white;
+}
+
+.formHeader{
+  margin-left: 12px;
+  
+
+}
+
+.add-contact{
+  font-size:30px;
+   font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 12px;
+}
+
+.btn{
+    color: whitesmoke;
+    background-color: darkolivegreen;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.ContactHeader{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 12px;
+  margin: 20px;
+}
+
+/* .contacts{
+  display: flex;
+  justify-content:space-around;
+  border: 2px ridge black;
+  background: rgb(234, 165, 165);
+  margin-bottom: 2px;
+  margin-left: 12px;
+  margin-right: 5px;
+  font-size: x-large 
+} */
+
+.email{
+  font-size: x-large;
+}
+
+.footer{
+  text-align: center;
+}
